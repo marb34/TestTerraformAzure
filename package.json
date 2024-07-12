@@ -1,0 +1,12 @@
+{
+  "name": "testterraformazure",
+  "version": "1.0.0",
+  "description": "Deploy and build nodejs in azure vms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
